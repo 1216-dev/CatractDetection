@@ -13,7 +13,7 @@ The dataset used for this project is the **ODIR-5K** dataset from Kaggle. The da
 Dataset can be downloaded from Kaggle:
 [ODIR-5K Dataset](https://www.kaggle.com/datasets)
 
-![Model Architecture](https://github.com/1216-dev/CatractDetection/blob/main/download%20(10).png)
+![Model Architecture](https://github.com/1216-dev/CatractDetection/blob/main/eyes.png)
 ## Features
 - **Image Classification**: Classify fundus images as either **Normal** or **Cataract**.
 - **Data Preprocessing**: Image resizing, normalization, and augmentation.
@@ -41,9 +41,12 @@ You can install the required dependencies using:
 
 pip install -r requirements.txt
 
+![Model 1]((https://github.com/1216-dev/CatractDetection/blob/main/download%20(10).png))
 git clone https://github.com/yourusername/cataract-detection-deep-learning.git
 cd cataract-detection-deep-learning
+Results:
 
+![Model Results](https://github.com/1216-dev/CatractDetection/blob/main/download%20(10).png)
 ```bash
 pip install -r requirements.txt  git clone https://github.com/yourusername/cataract-detection-deep-learning.git
 cd cataract-detection-deep-learning
