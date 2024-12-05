@@ -41,7 +41,7 @@ You can install the required dependencies using:
 
 pip install -r requirements.txt
 
-![Model 1]((https://github.com/1216-dev/CatractDetection/blob/main/download%20(10).png))
+![Model 1](https://github.com/1216-dev/CatractDetection/blob/main/download%20(11).png)
 git clone https://github.com/yourusername/cataract-detection-deep-learning.git
 cd cataract-detection-deep-learning
 Results:
