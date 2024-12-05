@@ -13,7 +13,7 @@ The dataset used for this project is the **ODIR-5K** dataset from Kaggle. The da
 Dataset can be downloaded from Kaggle:
 [ODIR-5K Dataset](https://www.kaggle.com/datasets)
 
-![Model Architecture]([https://github.com/1216-dev/CatractDetection/blob/main/download%20(10).png])
+![Model Architecture](https://github.com/1216-dev/CatractDetection/blob/main/download%20(10).png)
 ## Features
 - **Image Classification**: Classify fundus images as either **Normal** or **Cataract**.
 - **Data Preprocessing**: Image resizing, normalization, and augmentation.
